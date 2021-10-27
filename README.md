@@ -1,13 +1,10 @@
 # NLW-Heat
 Crachá criado durante a Next Level Week-Heat da Rocketseat com base nas aulas assistidas.
 
-<img src="/home/paloma/Imagens/Aula1.png" alt="Crachá padrão" style="zoom: 50%;" />
+
+![Crachá feito nas aulas](https://static.wixstatic.com/media/ab6635_ed06605411bf4c5fbe08ca7eca847dd4~mv2.jpg)
+
+**-->** *Crachá com algumas edições ao meu gosto*
 
 
-
-**-->** *Crachá com algumas edições a meu gosto*
-
-
-
-<img src="/home/paloma/Downloads/CracháNLW.gif" alt="Crachá editado" style="zoom: 67%;" />
-
+![Crachá editado](https://static.wixstatic.com/media/ab6635_465a3e84034f4df2843f0171593a8881~mv2.gif)
